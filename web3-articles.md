@@ -1,6 +1,6 @@
-# Curated list of we3 related articles :
+# Curated list of web3 related articles :
 
-* [The problem with NFTs](https://www.youtube.com/watch?v=YQ_xWvX1n9g) - 2022-01-21 - by Dan Olson (Documentary) 📺 [👉 Highly recommended 👈]
+* [The problem with NFTs](https://www.youtube.com/watch?v=YQ_xWvX1n9g) - 2022-01-21 - by Dan Olson (Documentary) 📺 
   * [Three things Web3 should fix in 2022](https://www.theverge.com/2022/1/28/22906010/web3-nft-internet-history-video-platformer) a response to The Problem with NFTs - 28 Jan 2022
 * Stephen Diehl series - https://www.stephendiehl.com/blog.html
   * [The Case Against Crypto](https://www.stephendiehl.com/blog/against-crypto.html) - December 31, 2021
